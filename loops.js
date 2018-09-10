@@ -19,6 +19,6 @@ function whileLoop(number){
     console.log(--countdown);
   }
   if (countdown === 0) {
-    console.log(done);
+    console.log('done');
   }
 } 

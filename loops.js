@@ -23,7 +23,6 @@ function whileLoop(n){
 
 
 function doWhileLoop(array){
-  
   do{
     array.length = array.length - 1;
   }
